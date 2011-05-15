@@ -1,0 +1,6 @@
+E:\HousingSolution\HousingSolution\HousingSolution\bin\HousingSolution.dll
+E:\HousingSolution\HousingSolution\HousingSolution\bin\HousingSolution.pdb
+E:\HousingSolution\HousingSolution\HousingSolution\bin\Telerik.Web.UI.xml
+E:\HousingSolution\HousingSolution\HousingSolution\obj\Debug\ResolveAssemblyReference.cache
+E:\HousingSolution\HousingSolution\HousingSolution\obj\Debug\HousingSolution.dll
+E:\HousingSolution\HousingSolution\HousingSolution\obj\Debug\HousingSolution.pdb

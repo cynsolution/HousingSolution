@@ -1,0 +1,12 @@
+﻿body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    background-color: #A6D3EE;
+}
+td
+{
+    text-align: left;
+    vertical-align: top;
+}

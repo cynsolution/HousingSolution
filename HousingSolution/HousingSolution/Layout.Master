@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="HousingSolution.Layout" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Housing Solution</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+            height: 782px;
+        }
+        .style2
+        {
+            height: 54px;
+        }
+        .style3
+        {
+            height: 54px;
+            width: 157px;
+        }
+        .style4
+        {
+            width: 157px;
+        }
+    </style>
+    <link href="css/StyleSheet1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <telerik:RadScriptManager ID="RadScriptManager1" runat="server">
+            </telerik:RadScriptManager>
+    <table class="style1">
+        <tr>
+            
+            <td class="style3">
+            </td>
+            <td class="style2">
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td class="style4">
+                &nbsp;</td>
+            <td>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>
